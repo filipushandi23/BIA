@@ -1,0 +1,42 @@
+===========================================
+
+<soapenv:Body>
+  <user:UserIBMalwareValidationF5Request>
+     <ClientID>1FDCF2B263568A03E0540021282850A9</ClientID>
+     <CustID>{user}</CustID>
+     <UpdateOfficer>INTN</UpdateOfficer>
+     <MalwareType>{type}</MalwareType>
+     <CustIP>{ip}</CustIP>
+     <Origin>WebSafe</Origin>
+  </user:UserIBMalwareValidationF5Request>
+</soapenv:Body>
+
+===========================================
+===========================================
+
+<soapenv:Body>
+  <user:UserIBMalwareValidationF5Request>
+     <ClientID>1FDCF2B263568A03E0540021282850A9</ClientID>
+     <CustID>{user}</CustID>
+     <UpdateOfficer>INTN</UpdateOfficer>
+     <MalwareType>{type}</MalwareType>
+     <CustIP>{ip}</CustIP>
+     <Origin>WebSafe</Origin>
+  </user:UserIBMalwareValidationF5Request>
+</soapenv:Body>
+
+===========================================
+===========================================
+
+<soapenv:Body>
+  <user:UserIBMalwareValidationF5Request>
+     <ClientID>1FDCF2B263568A03E0540021282850A9</ClientID>
+     <CustID>{user}</CustID>
+     <UpdateOfficer>INTN</UpdateOfficer>
+     <MalwareType>{type}</MalwareType>
+     <CustIP>{ip}</CustIP>
+     <Origin>WebSafe</Origin>
+  </user:UserIBMalwareValidationF5Request>
+</soapenv:Body>
+
+===========================================
